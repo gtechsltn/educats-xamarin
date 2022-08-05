@@ -53,3 +53,9 @@ Check [CONTRIBUTING](.github/CONTRIBUTING.md) to know how to help with the proje
 | **[FFImageLoading](https://github.com/luberda-molinet/FFImageLoading)**   | Library for extended image loading & handling         |
 | **[DocFX](https://github.com/dotnet/docfx)**  						  	| Project's documentation tools	  		                |
 | **[Google Fonts](https://fonts.google.com/)**  						  	| Open-source fonts				  		                |
+
+# Web
++ https://github.com/gtechsltn/Learning-System/
+
+# Mobile
++ https://github.com/gtechsltn/educats-xamarin/
